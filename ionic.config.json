@@ -1,0 +1,7 @@
+{
+  "name": "trainingLog-FE-Vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
